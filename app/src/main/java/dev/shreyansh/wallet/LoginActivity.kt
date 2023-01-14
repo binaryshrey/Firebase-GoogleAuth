@@ -40,6 +40,9 @@ class LoginActivity : AppCompatActivity() {
         binding.loginButton.setOnClickListener {
             signInFlow()
         }
+        binding.signupButton.setOnClickListener {
+            signInFlow()
+        }
     }
 
     private fun signInFlow() {
