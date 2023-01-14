@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Wallet</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="appName">wallét</string>
+    <string name="a_mobile_wallet_app_that_lets_you_keep_track_of_your_assets_spending_and_more_all_in_the_safety_of_your_home">A mobile wallet app that lets you keep track of your assets, spending and more – all in the safety of your home!</string>
 </resources>
